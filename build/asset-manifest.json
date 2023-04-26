@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meduzzenProject/static/css/main.e6c13ad2.css",
+    "main.js": "/meduzzenProject/static/js/main.b07b8b2a.js",
+    "static/js/787.d6d45d88.chunk.js": "/meduzzenProject/static/js/787.d6d45d88.chunk.js",
+    "index.html": "/meduzzenProject/index.html",
+    "main.e6c13ad2.css.map": "/meduzzenProject/static/css/main.e6c13ad2.css.map",
+    "main.b07b8b2a.js.map": "/meduzzenProject/static/js/main.b07b8b2a.js.map",
+    "787.d6d45d88.chunk.js.map": "/meduzzenProject/static/js/787.d6d45d88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b07b8b2a.js"
+  ]
+}

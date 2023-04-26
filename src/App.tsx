@@ -42,7 +42,7 @@ const App: React.FC = () => {
       <div>
       <h2>{cash.toString()}</h2>
 
-        <button onClick={addCash}>Add user</button>
+        <button onClick={addCash}>Addd user</button>
         <button onClick={getCash}>Delete user</button>
       </div>
       <BrowserRouter>
